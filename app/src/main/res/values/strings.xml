@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="title_db_debugger">DB manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_phone">Please enter phone</string>
+    <string name="error_name">Name please</string>
+    <string name="error_email">Email please</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="no_record_message">No record</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+
+</resources>
